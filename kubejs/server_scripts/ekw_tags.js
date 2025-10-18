@@ -24,7 +24,7 @@ ServerEvents.tags('item', event => {
         "bastardsword",
         "estoc",
         "claymore",
-        "zweyhander",
+        "zweihander",
         "flamebladedsword",
         "lochaberaxe",
         "concavehalberd",
